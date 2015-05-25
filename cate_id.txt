@@ -1,0 +1,6 @@
+ID  cate
+0  G
+1  P
+2  R
+3  X
+4  B
